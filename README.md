@@ -2,7 +2,7 @@
 
 # TextZen
 
-TextZen is a Markdown note-taking application for MacOS.
+TextZen is a Markdown note-taking application for macOS.
 
 ![Screenshot](./docs/screenshot.png)
 
