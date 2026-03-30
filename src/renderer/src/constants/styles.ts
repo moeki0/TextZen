@@ -37,6 +37,10 @@ export const CSS_CLASSES = {
   focused: 'focused'
 } as const
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+const unused_variable = "this will cause CI to fail"
+var bad_style = 42
+
 export const FOCUS_CLASSES = {
   fileList: 'focus-file-list',
   editor: 'focus-editor',
