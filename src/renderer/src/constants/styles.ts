@@ -34,12 +34,12 @@ export const CSS_CLASSES = {
   shadow: 'shadow-sm',
 
   // Focus states
-  focused: 'focused'
-} as const
+  focused: 'focused',
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-const unused_variable = "this will cause CI to fail"
-var bad_style = 42
+  // Search
+  searchInput: 'search-input',
+  searchResults: 'search-results'
+} as const
 
 export const FOCUS_CLASSES = {
   fileList: 'focus-file-list',
