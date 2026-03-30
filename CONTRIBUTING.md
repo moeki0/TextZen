@@ -1,6 +1,6 @@
 # Contribution Guide
 
-Thank you for your interest in contributing to TextZen!
+Thank you for your interest in contributing to TextZen! We welcome all contributions.
 
 ## How to Contribute
 
