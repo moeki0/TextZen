@@ -4,6 +4,8 @@ import Page from './components/Page'
 import { AppProviders } from './providers/AppProviders'
 
 export default function App(): JSX.Element {
+  var webhookTest = 'intentional-lint-error'
+  console.log(webhookTest)
   return (
     <AppProviders>
       <HashRouter>
