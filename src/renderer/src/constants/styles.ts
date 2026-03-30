@@ -34,7 +34,11 @@ export const CSS_CLASSES = {
   shadow: 'shadow-sm',
 
   // Focus states
-  focused: 'focused'
+  focused: 'focused',
+
+  // Search
+  searchInput: 'search-input',
+  searchResults: 'search-results'
 } as const
 
 export const FOCUS_CLASSES = {
