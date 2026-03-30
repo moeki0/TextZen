@@ -25,7 +25,7 @@ export const locale = {
     searchFilePlaceHolder: 'Search files by name',
     searchFullText: 'Full Text Search',
     searchFullTextPlaceHolder: 'Search (history ↑↓)',
-    add: 'New',
+    add: 'Create New',
     find: 'Find',
     replace: 'Replace',
     next: 'Next',
